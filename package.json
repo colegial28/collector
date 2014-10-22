@@ -1,0 +1,13 @@
+{
+  "name": "dextralearning",
+  "version": "1.0.0",
+  "description": "first-project",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-concat": "^2.4.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^1.2.0"
+  }
+}
